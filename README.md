@@ -4,20 +4,13 @@ https://github.com/amgauna/Linux-Basico/blob/main/linux-comandos-basicos.jpg
 
 # Linux 40 comandos úteis                                                      
         
-## pwd
-### Print Working Directory
+# pwd = Print Working Directory = Shows the absolute path of the working directory
 
-## pwd
-### Shows the absolute path of the working directory
+# mkdir = Make Directory
 
-## mkdir
-### Make Directory
+# mkdir reports/ = Creates a single directory
 
-❯ mkdir reports/
-# Creates a single directory
-
-❯ mkdir -p reports/finance/yearly/
-# Creates entire directory structure
+# mkdir -p reports/finance/yearly/ = Creates entire directory structure
 
 ➌ cd
 
