@@ -4,39 +4,27 @@ https://github.com/amgauna/Linux-Basico/blob/main/linux-comandos-basicos.jpg
 
 # Linux 40 comandos úteis                                                      
         
-# pwd = Print Working Directory = Shows the absolute path of the working directory
+* pwd = Print Working Directory = Shows the absolute path of the working directory
 
-# mkdir = Make Directory
+* mkdir = Make Directory
 
-# mkdir reports/ = Creates a single directory
+* mkdir reports/ = Creates a single directory reports
 
-# mkdir -p reports/finance/yearly/ = Creates entire directory structure
+* mkdir -p reports/finance/yearly/ = Creates entire directory structure
 
-➌ cd
+* cd = Change Directory
 
-Change Directory
+* cd icons = Switch to the "icons" directory
 
-❯ cd icons
-# Switch to the "icons" directory
+* cd/ = Switch to the previous directory
 
-❯ cd -
-# Switch to the previous directory
+* cd.. = Switch to the parent directory
 
-❯ cd ..
-# Switch to the parent directory
+* cd = Switch to the home directory
 
-❯ cd
-# Switch to the home directory
+* ls = List For current working directory
 
-➍ ls
-
-List
-
-❯ ls
-# For current working directory
-
-❯ ls /home/
-# For /home/
+* ls /home/ = List For /home/
 
 ❯ ls -a
 # Includes hidden files
