@@ -1,4 +1,4 @@
-# MX LINUX 
+# MX LINUX (Debian)
 * https://mxlinux.org/download-links/
 
 ## Linux Comandos Básicos
