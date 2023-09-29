@@ -1,8 +1,8 @@
 # Linux Comandos Básicos
 
-https://github.com/amgauna/Linux-Basico/blob/main/linux-comandos-basicos.jpg
+* https://github.com/amgauna/Linux-Basico/blob/main/linux-comandos-basicos.jpg
 
-# Linux 40 comandos úteis                                                      
+## Linux 40 comandos úteis                                                      
         
 * pwd = Print Working Directory = Shows the absolute path of the working directory
 
